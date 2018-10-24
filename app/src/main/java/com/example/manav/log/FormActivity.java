@@ -136,6 +136,7 @@ public class FormActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 sendData(v);
+                exitscreen();
 
             }
 
@@ -192,5 +193,12 @@ public class FormActivity extends AppCompatActivity {
 
     }
 
+    private void exitscreen() {
+        Intent intent = new Intent();
+        intent.setClass(getApplicationContext(),MainActivity1.class);
+        startActivity(intent);
+        finish();
+
+    }
 
 }
