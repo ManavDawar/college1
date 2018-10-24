@@ -1,0 +1,411 @@
+<resources>
+    <string name="app_name">OCI</string>
+    <string name="action_settings">Settings</string>
+    <string name="stylish_text">
+        Dont have an account?<b>Sign up.</b>
+    </string>
+    <string name="stylish_text2">
+        Already Signed In ? <b>Login</b>
+    </string>
+    <string name="stylish_text3">
+        Forgotten your login details ?<b>Get help signing in.</b>
+    </string>
+    <string name="stylish_text4">
+        <b>Error. </b>Please Enter the correct details .
+    </string>
+    <string name="status">
+        Please fill the following details to check your <b>Registration Status </b>
+    </string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_more">More</string>
+    <string name="title_helpline">Helpline</string>
+    <string name="title_other">Other</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_oci">Oci</string>
+    <string name="Helpline">
+
+        <b><big>Our new 24*7 Customer Service Helpline will help us serve you better</big></b>\n
+Now let our Customer Service Executives solve your issues in a jiffy!\n
+
+We have been working hard to better our overall customer experience, and found out people love reaching out to real people when they need help. It not only allows us to better emphasize, thanks to the human element in these conversations, but also suggest a solution quicker.
+
+Since we want to ensure you are served in the quickest and most efficient manner possible, we are launching a new 24*7 Customer Service hotline that will allow you to directly connect with our Customer Care executives, helping you receive instant help from our end.
+
+Our earlier CallMeBack number 0120–3888–388 is also operational in all Indian languages in case you want to request a call back from our end.
+
+Quick word here, we would also recommend you use the ‘Help &amp; FAQ’ section within the OCI app. We regularly update it with the latest information so you can rest assured we’re always there to help you.
+    </string>
+
+    <string name="connectwithus">
+
+        <b><big>Contact Us</big></b>\n
+
+        <li> Now let our Customer Service Executives solve your issues in a jiffy!\n</li>
+        <li>Working Hours: 0900 hours to 1730 hours \n</li>
+                  <li>  Saturday and Sunday Holidays\n</li>
+        <li>Our Executive will get Back to you Within 24 hours on business days.\n</li>
+           <li> We would also recommend you use the ‘Help &amp; FAQ’\n</li>
+    </string>
+
+
+
+
+    <string name="large_text2">
+
+        <b><big><u>Frequently Asked Questions (FAQs)\n\n</u></big>
+1. Who is eligible to apply?</b>\n
+A foreign national, who was eligible to become a citizen of India on
+26.01.1950 or was a citizen of India on or at anytime after 26.01.1950 or
+belonged to a territory that became part of India after 15.08.1947 and his/her
+children and grand children, is eligible for registration as an Overseas
+Citizen of India (OCI). Minor children of such person are also eligible for
+OCI. However, if the applicant had ever been a citizen of Pakistan or
+Bangladesh, he/she will not be eligible for OCI.\n
+        \n<b>2. Who was eligible to become Citizen of India on 26.01.1950?</b>\n
+Any person who, or whose parents or grand-parents were born in
+India as defined in the Government of India Act, 1935 (as originally
+enacted), and who was ordinarily residing in any country outside India was
+eligible to become citizen of India on 26.01.1950.\n
+        \n<b>3. Which territories became part of India after 15.08.1947 and from
+what date?</b>\n
+The territories which became part of India after 15.08.1947 are:
+(i) Sikkim 26.04.1975
+(ii) Pondicherry 16.08.1962
+(iii) Dadra &amp; Nagar Haveli 11.08.1961
+(iv) Goa, Daman and Diu 20.12.1961\n
+\n<b>4. Can the spouse of the eligible person apply for OCI?</b>\n
+Yes, if he/she is eligible in his/her own capacity.\n
+\n<b>5. Can Minor children apply for OCI?</b>\n
+Yes, if either of the parentsi\n
+\n<b>6. In what form should a person apply for an OCI and where are the
+forms available?</b>\n
+A family consisting of spouses and upto two minor children can apply
+in the same form i.e. Form XIX, which can be filed online or downloaded
+from our website http://mha.nic.in/ForeigDiv/ForeigHome.html.\n
+\n<b>7. Can application form be filled and submitted on line?</b>\n
+Yes. Part A of the application form should be filed online. Part B
+should be downloaded and printed on computer or by hand in Block letters.
+Printed Part A and Part B of the application form has to be submitted to the
+Indian Mission/Post/Office along with all requisite documents.\n
+\n<b>8. What documents have to be submitted with the application?</b>\n
+The following documentsshall be enclosed for each applicant:
+1. Proof of present citizenship
+2. Evidence of self or parents or grand parents,
+(a) being eligible to become a citizen of India at the time of
+commencement of the Constitution; or
+(b) belonging to a territory that became a part of India after
+15 th August, 1947; or
+(c) being a citizen of India on or after 26 th January, 1950
+These could be:
+(i) Copy of the passport :or
+(ii) Copy of the domicile certificate issued by the Competent
+authority ;or
+(iii) Any other proof substantiating the request. Usually
+applicants are able to submit a certificate of residence or
+place of birth of self/parents/grand parents from First
+Class Magistrate/District Magistrate (DM) of the
+concerned place.
+3. Evidence of relationship as parent/grand parent, if their Indian
+origin is claimed as basis for grant of OCI such as birth certificate or
+Educational Certificate etc.
+4. Application fee by way of Demand Draft (US $ 275 for each
+applicant or equivalent in local currency; US $ 25 or equivalent
+In local currency for each PIO card holder) in case of
+application filled in India, fee Rs.15,000/-for general category,
+for PIO card holders Rs.1,400/- and for minor PIO card holder
+Rs.8,000/- to be paid by way of Demand Draft.
+5. PIO card holdersshould submit a copy of his/her PIO card.\n
+\n<b>9. What documents would qualify for “Any other proof” for
+evidence of self or parents or grand parents being eligible for
+grant of an OCI?</b>\n
+Any documentary evidence like a school certificate, Agricultural land
+ownership certificate, birth certificate etc. by which eligibility may be
+reasonably ascertained.\n
+\n<b>10. How many copies of application have to be submitted?</b>\n
+Only one Set of Application has to be submitted for each applicant.\n
+\n<b>11. Whether applicant(s) have to go in person to submit the
+application (s)?</b>\n
+No. Application(s) can be sent by post either by Speed post or
+Registered post only and not through Courier.\n
+\n<b>12. Whether the applicant (s) have to take oath before the Counsel of
+the Indian Mission/Post?</b>\n
+No. Earlier provision in this regard has been done away with.\n
+\n<b>13. Where to submit the application?</b>\n
+To the Indian Mission/ Post of the country of citizenship of the
+applicant. If the applicant is not in the country of citizenship, to the Indian
+Mission/Post of the country where he is ordinarily residing. If the applicant
+is in India, to the FRRO Amritsar, Bangalore, Kozhikode, Chennai, Kochi,
+Delhi, Goa, Hyderabad, Lucknow, Mumbai, Kolkota, and
+Thiruvanathapuram as per specified Jurisdiction of the FRRO concerned.\n
+\n<b>14. Can a person apply in the country where he is ordinarily
+residing?</b>\n
+Yes.\n
+\n<b>15. What are the consequences of furnishing wrong information or
+suppressing material information?</b>\n
+All the applications will be subject to pre or post enquiry depending
+on whether any adverse information is voluntarily reported in the application
+or not. If the Government comes to the know that any false information was
+furnished or material information was suppressed, the registration as OCI
+already granted shall be cancelled by an order under section 7D of the
+Citizenship Act, 1955. The persons will also be blacklisted thereby banning
+his/her entry into India.\n
+\n<b>16. What is the fee for application for registrationas an OCI?</b>\n
+US $ 275 or equivalent in local currency for each applicant. In case of
+PIO card holder, US $ 25 or equivalent in local currency for each applicant.
+In case of application filled in India, fee Rs.15,000/- for general category, for
+PIO card holders Rs.1,400/- and for minor PIO card holder Rs.8,000/- to be
+paid by way of Demand Draft.\n
+\n<b>17. What is the time taken for registration as OCI?</b>\n
+Within 30 days of the application, if there is no adverse information
+available against the applicant. If any adverse information is available
+against the applicant, the decision to grant or otherwise is taken within 120
+days.\n
+\n<b>18. If the registration as an OCI is not granted, what amount will be
+refunded?</b>\n
+An amount of US $ 250 or equivalent in local currency shall be
+refunded, if registration is refused. US $ 25 is the processing fees, which is
+non-refundable. In case application filled in India, Rs.1,400/- will be nonrefundable
+being processing fees.\n
+\n<b>19. Can a PIO Cardholder apply?</b>\n
+Yes, provided he/she is otherwise eligible for grant of OCI like any
+other applicant.\n
+\n<b>20. Will the PIO Cardholder be granted an OCI registration gratis?</b>\n
+No. He/she has to make a payment of US $ 25 or equivalent in local
+currency along with the application &amp; Rs.1,400/-in case of application is
+filled in India.\n
+\n<b>21. Will the PIO card be honored till the time it is valid even after
+acquisition of an OCI?</b>\n
+No. PIO card will have to be surrendered to the Indian
+Mission/Post/FRROs before collection of OCI registration certificate and an
+OCI ‘U’ visa sticker.\n
+\n<b>22. What will be issued after registration as an OCI?</b>\n
+A registration certificate in the form of a booklet will be issued and a
+multiple entry, multi-purpose OCI ‘U’ visa sticker will be pasted on the
+foreign passport of the applicant. For this purpose, the applicant has to
+produce the original passport to the Indian Mission/Post/FRROs after
+receipt of the acceptance letter/verifying the status of the application online.\n
+\n<b>23. Will a separate OCI passport be issued?</b>\n
+No.\n
+\n<b>24. Will a duplicate certificate of registration as an OCI will be
+issued?</b>\n
+Yes. For this purpose, an application has to be made to the Indian
+Mission/Post with evidence for loss of certificate. In the case of
+mutilated/damaged certificate an application has to be made enclosing the
+same. The applications in both the cases to be submitted to the concerned
+Indian Mission/ Post/FRRO along with payment of a fee of US $ 100 or
+equivalent in local currency &amp; Rs.5,500/- in case of application is filled in
+India.\n
+\n<b>25. Will a new OCI visa sticker be pasted on the new foreign passport
+after the expiry of the old passport?</b>\n
+Yes. On payment of requisite fee, a new OCI ‘U’ visa sticker will be
+issued. However, the applicant can continue to carry the old passport
+wherein the OCI ‘U’ visa sticker was pasted along with new passport for
+visiting India withoutseeking a new visa, as the visa is lifelong.\n
+\n<b>26. Will the applicantlose his citizenship after registering as an OCI?</b>\n
+No.\n
+\n<b>27. Can a person registered as an OCI travel to protected
+area/restricted area without permission?</b>\n
+No. He/she will be required to seek PAP/RAP for such visits.\n
+\n<b>28. Would the Indian civil/criminal laws be applicable to persons
+registered as OCI?</b>\n
+Yes, for the period OCI is living in India.\n
+\n<b>29. Can a person registered as an OCI be granted Indian citizenship?</b>\n
+Yes. As per the provisions of section 5(1) (g) of the Citizenship Act,
+1955, a person who is registered as an OCI for 5 years and is residing in
+India for 1 year out of the above 5 years, is eligible to apply for Indian
+Citizenship.\n
+\n<b>30. Will an OCI be granted gratis to certain categories of people?</b>\n
+No.\n
+\n<b>31. Can OCI be granted to foreign nationals who are not eligible for
+OCI, but married to persons who are eligible for OCI?</b>\n
+No.\n
+\n<b>32. Will foreign-born children of PIOs be eligible to become an OCI?</b>\n
+Yes, provided one of the parentsis eligible to become an OCI.\n
+\n<b>33. What are the benefits of an OCI?</b>\n
+Following benefits will be allowed to an OCI:
+(i) Multiple entry, multi-purpose life long visa to visit India;
+(ii) Exemption from reporting to Police authorities for any length of
+stay in India; and
+(iii) Parity with NRIs in financial, economic and educational fields
+except in the acquisition of agricultural or plantation properties.
+(iv) Registered Overseas Citizen of India shall be treated at par with NonResident-Indian
+in the matter of inter-country adoption of Indian children.
+(v) Registered Overseas Citizens of India shall be treated at par with resident
+Indian nationals in the matter of tariffs in air fares in domestic sectors in
+India.
+(vi) Registered Overseas Citizens of India shall be charged the same entry fee as
+domestic Indian visitors to visit national parks and wildlife sanctuaries in
+India
+(vii) Parity with Non-Resident Indian in respect of entry fees to be charged for
+visiting the national monuments, historical sites and museums in India;
+Pursuing the following professions in India, in pursuance of the provisions
+contained in the relevant Acts, namely:-
+(a) doctors, dentists, nurses and pharmacists;
+(b) advocates;
+(c) architects;
+(d) chartered accountants;
+(viii) Parity with Non-Resident Indian to appear for the All India Pre-medical Test
+or such other tests to make them eligible for admission in pursuance of the
+provisions contained in the relevant Acts.
+(ix) “State Governments should ensure that the OCI registration booklets of
+OCIs are treated as their identification for any services rendered to them. In
+case proof of residence is required, Overseas Citizens of India may give an
+affidavit attested by a notary public stating that a particular/specific address
+may be treated as their place of residence in India and may also in their
+affidavit give their overseas residential address as well as e-mail address, if
+any”\n
+\n<b>34. Will any other benefit be granted to an OCI?</b>\n
+Any other benefits to an OCI will be notified by the Ministry of
+Overseas Indian Affairs (MOIA) under Section 7B(1) of the Citizenship
+Act, 1955.\n
+\n<b>35. Is the OCI entitled to voting rights?</b>\n
+No.\n
+\n<b>36. Is the OCI entitled to hold constitutional post in India?</b>\n
+No.\n
+\n<b>37. Is the OCI entitled to hold Government posts in India?</b>\n
+No, except for the posts specified by an order by the Central
+Government.\n
+\n<b>38. If a person is already holding more than one nationality, can
+he/she apply for OCI?</b>\n
+Yes.\n
+\n<b>39. What are the advantages of the OCI when compared to PIO
+cardholders ?</b>\n
+(i) An OCI is entitled to life long visa with free travel to India
+whereasfor a PIO card holder, it is only valid for 15 years.
+(ii) A PIO cardholder is required to register with local Police authority
+for any stay exceeding 180 days in India on any single
+visit whereas an OCI is exempted from registration with Police
+authority for any length of stay in India.
+(iii) An OCI gets a specific right to become an Indian Citizen as per Section
+5(i) and (ii) of the Citizenship Act, 1955.
+whereasthe PIO card holder does not have this.\n
+\n<b>40. Whether an OCI be entitled to apply for and obtain a normal
+Indian passport which is given to a citizen of India?</b>\n
+No. Indian Passports are given only to Indian citizen.\n
+\n<b>41. Whether nationals of Commonwealth countries are eligible for the
+OCI?</b>\n
+Yes, if they fulfill the eligibility criteria.\n
+\n<b>42. Can a person renounce OCI?</b>\n
+Yes. He/she has to declare intention of renunciation in Form XXII to the
+Indian Mission/Post where OCI registration was granted. After receipt of the
+declaration, the Indian Mission/Post/FRROs shall issue an acknowledgement in
+Form XXII A.\n
+\n<b>43. Do the applicants who have applied on the earlier prescribed
+application form have to apply again in the new form?</b>\n
+No. All such applications will be considered for registration as an OCI
+withoutseeking fresh applications and fees.\n
+\n<b>44. Can an OCI holder undertake Research work in India?</b>\n
+Yes, after getting prior approval/special permission from MHA.\n
+\n<b>45. Whether foreign military personnel are eligible for grant of OCI?</b>\n
+NO, foreign military personnel either in service or retired are not entitled for
+grant of OCI.\n
+\n<b>46. Whether civil Govt. servant working in Ministry of Defence as IT
+engineers/civil contractors entitled for OCI?</b>\n
+NO.\n
+    </string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+    <string name="large_text1">
+
+
+    </string>
+
+    <string name="title_activity_connect_with_us">ConnectWithUs</string>
+    <string name="title_activity_faq">Faq</string>
+    <string name="title_activity_privacy">Privacy</string>
+    <string name="title_activity_terms_of_use">termsOfUse</string>
+    <string name="title_activity_splash_activity">splash_activity</string>
+
+</resources>

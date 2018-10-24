@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "684009031035",
+    "firebase_url": "https://logindemo-20151.firebaseio.com",
+    "project_id": "logindemo-20151",
+    "storage_bucket": "logindemo-20151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684009031035:android:5cf858f5df9eee3e",
+        "android_client_info": {
+          "package_name": "com.example.manav.log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684009031035-tr8a5jgqedvskkm7t6euph8d0or8lv5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manav.log",
+            "certificate_hash": "6383ece0f16961bb590a06352dbf0d7bf9433747"
+          }
+        },
+        {
+          "client_id": "684009031035-5mhgmlj2ir4scs9e6grpr4qja0buv14g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYXLxhW1QrxjVdk-oeDr4eys_zJOthX0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684009031035-5mhgmlj2ir4scs9e6grpr4qja0buv14g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

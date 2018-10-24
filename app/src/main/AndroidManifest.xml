@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.manav.log">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RegistrationActivity" />
+        <activity android:name=".PasswordActivity" />
+        <activity android:name=".StatusEnquiry" />
+        <activity android:name=".StatusQuery" />
+        <activity android:name=".subActivities.OciRegistration" />
+        <activity android:name=".subActivities.complaints" />
+        <activity android:name=".subActivities.OciEnquiry" />
+        <activity android:name=".subActivities.Aboutus" />
+        <activity android:name=".subActivities.Faq1" />
+        <activity android:name=".subActivities.Oci" />
+        <activity android:name=".subActivities.ConnectWithUs" />
+        <activity android:name=".subActivities.Privacy" />
+        <activity android:name=".subActivities.TermsOfUse" />
+        <activity android:name=".MainActivity1" />
+        <activity android:name=".FormActivity" />
+        <activity android:name=".subActivities.phone" />
+    </application>
+
+</manifest>

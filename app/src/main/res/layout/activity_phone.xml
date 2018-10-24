@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".subActivities.phone">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="5dp"
+        android:background="#7ccbd9"
+        android:elevation="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="16dp"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:text="@string/Helpline"
+            />
+
+
+    </LinearLayout>
+
+
+
+    <ImageView
+        android:id="@+id/image_call"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_phone"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="15dp" />
+
+    <Button
+        android:id="@+id/button_call"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@drawable/button1"
+        android:backgroundTint="#17B739"
+        android:drawableLeft="@drawable/ic_phone_black"
+        android:hint="Helpline"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="0dp"
+        android:textColor="#000000"
+        />
+
+
+</LinearLayout>
