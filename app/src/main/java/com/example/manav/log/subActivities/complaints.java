@@ -19,6 +19,7 @@ import android.widget.Spinner;
 import android.widget.Toast;
 
 import com.example.manav.log.ComplainModal;
+import com.example.manav.log.MainActivity1;
 import com.example.manav.log.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
@@ -108,18 +109,26 @@ public class complaints extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 sendData();
+                exitscreen();
             }
         });
+    }
+
+    private void exitscreen() {
+        Intent intent = new Intent();
+        intent.setClass(getApplicationContext(),MainActivity1.class);
+        startActivity(intent);
+        finish();
+
     }
 
     private void sendData() {
 
         model.setComplainText(complainMessage.getText().toString());
-//      model.setImage(filepath);
-
-        databaseReference=database.getReference().child("complaint");
-        model = getIntent().getParcelableExtra("model");
+        model.setEmail(email.getText().toString());
         databaseReference.child(databaseReference.push().getKey()).setValue(model);
+
+        Toast.makeText(this, "button pressed", Toast.LENGTH_SHORT).show();
     }
 
     private void addChildsInList() {
@@ -141,6 +150,8 @@ public class complaints extends AppCompatActivity {
         String addressOfLink= UUID.randomUUID().toString();
 
         StorageReference ref = storageReference.child(addressOfLink);
+
+        model.setImage(addressOfLink);
 
         ref.putFile(filepath)
                 .addOnFailureListener(new OnFailureListener() {
@@ -168,8 +179,6 @@ public class complaints extends AppCompatActivity {
 
 
     }
-
-
 
     private void ChooseImage(int photoRequestcode) {
         Intent intent = new Intent();
