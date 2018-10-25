@@ -8,6 +8,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.provider.MediaStore;
 import android.support.annotation.NonNull;
+import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
@@ -108,7 +109,7 @@ public class complaints extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                sendData();
+                sendData(v);
                 exitscreen();
             }
         });
@@ -122,25 +123,35 @@ public class complaints extends AppCompatActivity {
 
     }
 
-    private void sendData() {
+    private void sendData(View view) {
+
+        if(email.getText().length()<=0){
+            Snackbar.make(view, "Please Enter the Email Address", Snackbar.LENGTH_LONG).setAction("Action", null).show();
+            return;
+        }
+        if(complainMessage.length()<=0){
+            Snackbar.make(view, "Please Enter the phone Number", Snackbar.LENGTH_LONG).setAction("Action", null).show();
+            return;
+        }
+
+
+
+
 
         model.setComplainText(complainMessage.getText().toString());
         model.setEmail(email.getText().toString());
         databaseReference.child(databaseReference.push().getKey()).setValue(model);
 
-        Toast.makeText(this, "button pressed", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Complaint Submitted", Toast.LENGTH_SHORT).show();
     }
 
     private void addChildsInList() {
-        list.add("Delay In application Submission");
-        list.add("1");
-        list.add("2");
-        list.add("3");
-        list.add("4");
-        list.add("5");
-        list.add("6");
-        list.add("7");
-        list.add("8");
+        list.add("Select Category");
+        list.add("Delay In Application Submission");
+        list.add("Appointment Related Issues");
+        list.add("Miscellaneous");
+        list.add("Delay in processing Request");
+        list.add("Feedback");
     }
 
     private void UploadImage(Uri filepath) {

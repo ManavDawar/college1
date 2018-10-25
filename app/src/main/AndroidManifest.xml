@@ -20,21 +20,30 @@
             </intent-filter>
         </activity>
         <activity android:name=".RegistrationActivity" />
+        <activity android:name=".subActivities.Privacy" />
         <activity android:name=".PasswordActivity" />
         <activity android:name=".StatusEnquiry" />
         <activity android:name=".StatusQuery" />
         <activity android:name=".subActivities.OciRegistration" />
-        <activity android:name=".subActivities.complaints" />
+        <activity
+            android:name=".subActivities.complaints"
+            android:screenOrientation="portrait" />
         <activity android:name=".subActivities.OciEnquiry" />
         <activity android:name=".subActivities.Aboutus" />
         <activity android:name=".subActivities.Faq1" />
         <activity android:name=".subActivities.Oci" />
-        <activity android:name=".subActivities.ConnectWithUs" />
-        <activity android:name=".subActivities.Privacy" />
+        <activity
+            android:name=".subActivities.ConnectWithUs"
+            android:screenOrientation="portrait" />
         <activity android:name=".subActivities.TermsOfUse" />
-        <activity android:name=".MainActivity1" />
+        <activity
+            android:name=".MainActivity1"
+            android:screenOrientation="portrait" />
         <activity android:name=".FormActivity" />
-        <activity android:name=".subActivities.phone" />
+        <activity
+            android:name=".subActivities.phone"
+            android:screenOrientation="portrait" />
+        <activity android:name=".SecondActivity"></activity>
     </application>
 
 </manifest>
