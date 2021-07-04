@@ -19,6 +19,7 @@ import com.example.manav.log.subActivities.OciEnquiry;
 import com.example.manav.log.subActivities.OciRegistration;
 import com.example.manav.log.subActivities.complaints;
 import com.example.manav.log.subActivities.phone;
+import com.google.android.gms.appinvite.AppInviteInvitation;
 
 
 public class home extends Fragment {
@@ -116,7 +117,12 @@ public class home extends Fragment {
         share.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+Intent intent = new AppInviteInvitation.IntentBuilder("Share with Friends")
+        .setMessage("Invitation message")
+        .setCallToActionText("invitation cta")
+        .build();
 
+        startActivityForResult(intent,99);
 
             }
         });

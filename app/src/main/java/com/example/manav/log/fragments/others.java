@@ -8,16 +8,21 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
+import com.example.manav.log.MainActivity;
 import com.example.manav.log.R;
+import com.example.manav.log.SecondActivity;
 import com.example.manav.log.subActivities.Aboutus;
 import com.example.manav.log.subActivities.Faq1;
 import com.example.manav.log.subActivities.Privacy;
 import com.example.manav.log.subActivities.TermsOfUse;
+import com.google.firebase.auth.FirebaseAuth;
 
 
 public class others extends Fragment {
 
 Button aboutUs,privacy,faq,termsOfUse,signOut;
+    private FirebaseAuth firebaseAuth;
+    private Button logout;
 
     public others() {
         // Required empty public constructor
@@ -39,7 +44,7 @@ Button aboutUs,privacy,faq,termsOfUse,signOut;
         privacy= view.findViewById(R.id.buttonPrivacyPolicy);
         faq= view.findViewById(R.id.buttonFaq);
         termsOfUse= view.findViewById(R.id.buttonTermsOfUse);
-        signOut= view.findViewById(R.id.buttonSignout);
+        logout= view.findViewById(R.id.buttonSignout);
 
         aboutUs.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -77,14 +82,20 @@ Button aboutUs,privacy,faq,termsOfUse,signOut;
             }
         });
 
-        signOut.setOnClickListener(new View.OnClickListener() {
+        logout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                Intent intent = new Intent();
+                intent.setClass(getContext(),SecondActivity.class);
+                startActivity(intent);
             }
         });
 
+
         return view;
     }
+
+
+
 
 }

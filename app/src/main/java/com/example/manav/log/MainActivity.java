@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.graphics.drawable.AnimationDrawable;
 import android.support.annotation.NonNull;
 import android.support.constraint.ConstraintLayout;
+import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -64,6 +65,17 @@ public class MainActivity extends AppCompatActivity {
         Login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
+                if(Name.getText().length()<=0){
+                    Toast.makeText(MainActivity.this,"Enter Email",Toast.LENGTH_SHORT).show();
+                    return;
+                }
+
+
+                if(Password.getText().length()<=0){
+                    Toast.makeText(MainActivity.this,"Enter Password",Toast.LENGTH_SHORT).show();
+                    return;
+                }
                 validate(Name.getText().toString(),Password.getText().toString());
             }
         });
